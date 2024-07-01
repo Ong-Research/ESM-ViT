@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+pandas
+numpy
+wandb
+evaluate
+vit-pytorch
+safetensors
